@@ -57,7 +57,10 @@ tilemap`level1`,
 tilemap`level10`,
 tilemap`level11`,
 tilemap`level12`,
-tilemap`level13`
+tilemap`level13`,
+tilemap`level15`,
+tilemap`level16`,
+tilemap`level17`
 ]
 mySprite = sprites.create(img`
     8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
